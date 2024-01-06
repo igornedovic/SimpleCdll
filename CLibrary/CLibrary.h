@@ -1,0 +1,1 @@
+__declspec(dllexport) void ConnectSession(unsigned int sessionNumber);

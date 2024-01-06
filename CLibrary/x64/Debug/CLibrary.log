@@ -1,0 +1,4 @@
+﻿  CLibrary.c
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1392,5): warning MSB8012: TargetPath(C:\Users\igorn\LanguageInterconnection\LanguageInterconnection\x64\Debug\CLibrary.dll) does not match the Linker's OutputFile property value (C:\Users\igorn\LanguageInterconnection\LanguageInterconnection\Wrapper\CLibrary.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+     Creating library C:\Users\igorn\LanguageInterconnection\LanguageInterconnection\x64\Debug\CLibrary.lib and object C:\Users\igorn\LanguageInterconnection\LanguageInterconnection\x64\Debug\CLibrary.exp
+  CLibrary.vcxproj -> C:\Users\igorn\LanguageInterconnection\LanguageInterconnection\x64\Debug\CLibrary.dll
